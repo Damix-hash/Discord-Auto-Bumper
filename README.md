@@ -1,6 +1,6 @@
-This program is made for setting up at the server instead of localhost because the website takes 12 hours per bump.
-This program is for educational purpouses only!
-For Any Issues (Related to program) Copy the logs from logs folder and make an issue request.
+- This program is made for setting up at the server instead of localhost because the website takes 12 hours per bump.
+- This program is for educational purpouses only!
+- For Any Issues (Related to program) Copy the logs from logs folder and make an issue request.
 
 # Discord Auto Bumper
 Discord auto bumper for https://discordservers.com/
